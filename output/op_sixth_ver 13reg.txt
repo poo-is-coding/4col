@@ -1,0 +1,24 @@
+a a a a a a a a a a a a a a a a a a a a a a a 
+a b c d e f g h i j k l m a b c d e f g h i j 
+b b b b b b b b b b b b b b b b b b b b b b b 
+a b c d e f g h i j k l m a b c d e f g h i j 
+c c c c c c c c c c c c c c c c c c c c c c c 
+a b c d e f g h i j k l m a b c d e f g h i j 
+d d d d d d d d d d d d d d d d d d d d d d d 
+a b c d e f g h i j k l m a b c d e f g h i j 
+e e e e e e e e e e e e e e e e e e e e e e e 
+a b c d e f g h i j k l m a b c d e f g h i j 
+f f f f f f f f f f f f f f f f f f f f f f f 
+a b c d e f g h i j k l m a b c d e f g h i j 
+g g g g g g g g g g g g g g g g g g g g g g g 
+a b c d e f g h i j k l m a b c d e f g h i j 
+h h h h h h h h h h h h h h h h h h h h h h h 
+a b c d e f g h i j k l m a b c d e f g h i j 
+i i i i i i i i i i i i i i i i i i i i i i i 
+a b c d e f g h i j k l m a b c d e f g h i j 
+j j j j j j j j j j j j j j j j j j j j j j j 
+a b c d e f g h i j k l m a b c d e f g h i j 
+k k k k k k k k k k k k k k k k k k k k k k k 
+a b c d e f g h i j k l m a b c d e f g h i j 
+l l l l l l l l l l l l l l l l l l l l l l l 
+最小著色數χ(G)： 13 讀入測資耗時： 0.0009961128234863281 生成關係圖耗時： 0.0009968280792236328 上色耗時： 627.9426114559174 匯出耗時： 0.002595663070678711

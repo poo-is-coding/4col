@@ -1,0 +1,18 @@
+a a a a a a a a a a a a a a a a a 
+a b c d e f g h i j a b c d e f g 
+b b b b b b b b b b b b b b b b b 
+a b c d e f g h i j a b c d e f g 
+c c c c c c c c c c c c c c c c c 
+a b c d e f g h i j a b c d e f g 
+d d d d d d d d d d d d d d d d d 
+a b c d e f g h i j a b c d e f g 
+e e e e e e e e e e e e e e e e e 
+a b c d e f g h i j a b c d e f g 
+f f f f f f f f f f f f f f f f f 
+a b c d e f g h i j a b c d e f g 
+g g g g g g g g g g g g g g g g g 
+a b c d e f g h i j a b c d e f g 
+h h h h h h h h h h h h h h h h h 
+a b c d e f g h i j a b c d e f g 
+i i i i i i i i i i i i i i i i i 
+使用顏色數： 10 讀入測資耗時： 0.0029854774475097656 生成關係圖耗時： 0.000997781753540039 上色耗時： 0.5276970863342285 匯出耗時： 0.035276174545288086

@@ -1,0 +1,22 @@
+a a a a a a a a a a a a a a a a a a a a a 
+a b c d e f g h i j k l a b c d e f g h i 
+b b b b b b b b b b b b b b b b b b b b b 
+a b c d e f g h i j k l a b c d e f g h i 
+c c c c c c c c c c c c c c c c c c c c c 
+a b c d e f g h i j k l a b c d e f g h i 
+d d d d d d d d d d d d d d d d d d d d d 
+a b c d e f g h i j k l a b c d e f g h i 
+e e e e e e e e e e e e e e e e e e e e e 
+a b c d e f g h i j k l a b c d e f g h i 
+f f f f f f f f f f f f f f f f f f f f f 
+a b c d e f g h i j k l a b c d e f g h i 
+g g g g g g g g g g g g g g g g g g g g g 
+a b c d e f g h i j k l a b c d e f g h i 
+h h h h h h h h h h h h h h h h h h h h h 
+a b c d e f g h i j k l a b c d e f g h i 
+i i i i i i i i i i i i i i i i i i i i i 
+a b c d e f g h i j k l a b c d e f g h i 
+j j j j j j j j j j j j j j j j j j j j j 
+a b c d e f g h i j k l a b c d e f g h i 
+k k k k k k k k k k k k k k k k k k k k k 
+最小著色數χ(G)： 12 讀入測資耗時： 0.0009968280792236328 生成關係圖耗時： 0.0009970664978027344 上色耗時： 50.25116491317749 匯出耗時： 0.0

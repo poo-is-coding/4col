@@ -1,0 +1,24 @@
+a a a a a a a a a a a a a a a a a a a a a a a 
+a b c d e f g h i j k l m a b c d e f g h i j 
+b b b b b b b b b b b b b b b b b b b b b b b 
+a b c d e f g h i j k l m a b c d e f g h i j 
+c c c c c c c c c c c c c c c c c c c c c c c 
+a b c d e f g h i j k l m a b c d e f g h i j 
+d d d d d d d d d d d d d d d d d d d d d d d 
+a b c d e f g h i j k l m a b c d e f g h i j 
+e e e e e e e e e e e e e e e e e e e e e e e 
+a b c d e f g h i j k l m a b c d e f g h i j 
+f f f f f f f f f f f f f f f f f f f f f f f 
+a b c d e f g h i j k l m a b c d e f g h i j 
+g g g g g g g g g g g g g g g g g g g g g g g 
+a b c d e f g h i j k l m a b c d e f g h i j 
+h h h h h h h h h h h h h h h h h h h h h h h 
+a b c d e f g h i j k l m a b c d e f g h i j 
+i i i i i i i i i i i i i i i i i i i i i i i 
+a b c d e f g h i j k l m a b c d e f g h i j 
+j j j j j j j j j j j j j j j j j j j j j j j 
+a b c d e f g h i j k l m a b c d e f g h i j 
+k k k k k k k k k k k k k k k k k k k k k k k 
+a b c d e f g h i j k l m a b c d e f g h i j 
+l l l l l l l l l l l l l l l l l l l l l l l 
+使用顏色數： 13 讀入測資耗時： 0.0009982585906982422 生成關係圖耗時： 0.003002643585205078 上色耗時： 678.6154670715332 匯出耗時： 0.008610010147094727
